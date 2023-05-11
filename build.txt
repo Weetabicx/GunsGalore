@@ -1,0 +1,3 @@
+displayName = Guns Galore
+author = Weeatbicx
+version = 0.1
